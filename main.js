@@ -10,6 +10,7 @@ bodyElement.append(buttonElement)
 const mainElement = document.createElement('main')
 bodyElement.append(mainElement)
 
+
 // You can pick whichever image you'd like to display and whichever link you want
 // to add, but these elements should work as intended 
 // (e.g. the image element should display an actual image and the anchor tag should link
